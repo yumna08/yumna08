@@ -21,7 +21,3 @@ Software Engineering Student 🚀
 Full-Stack Developer 💻
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=yumna08)](https://git.io/streak-stats)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yumna08&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yumna08&layout=compact)
