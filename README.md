@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 
-# Hi 👋, I'm Siham Kassim
+# Hi 👋, I'm Siham Yimam
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Full-Stack+Developer;Backend-Focused+Builder;AI+%26+Automation+Enthusiast)](https://git.io/typing-svg)
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet)
+![Student](https://img.shields.io/badge/Software%20Engineering-Student-blue?style=flat-square)
+![Full Stack](https://img.shields.io/badge/Full--Stack-Developer-orange?style=flat-square)
+![Backend](https://img.shields.io/badge/Backend-Focused-green?style=flat-square)
 
 </div>
 
