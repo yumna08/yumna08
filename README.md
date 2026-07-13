@@ -14,17 +14,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👩‍💻 About Me
+### 🧑‍💻 About Me
 
-▹ Software Engineering student with strong interest in Backend Engineering.
-▹ Build AI agents, RAG systems, and automation workflows that turn manual work into something machines handle
-▹ Build REST APIs, authentication systems, and scalable server-side logic
-▹ Skilled in frontend (React, Next.js, Tailwind, UI/UX design)
-▹ Work with LangChain, LangGraph, OpenAI, and automation tools like n8n
-▹ Comfortable with PostgreSQL and MongoDB for scalable data systems
+▹ Software Engineering student with strong interest in **Backend Engineering**, **Frontend Engineering**, **Agentic AI**
+
+▹ Build **AI agents**, **RAG systems**, and automation workflows that turn manual work into something machines handle
+
+▹ Build **REST APIs**, authentication systems, and scalable server-side logic
+
+▹ Skilled in frontend (**React**, **Next.js**, **Tailwind**, UI/UX design)
+
+▹ Work with **LangChain**, **LangGraph**, **OpenAI**, and automation tools like **n8n**
+
+▹ Comfortable with **PostgreSQL** and **MongoDB** for scalable data systems
+
 ▹ UI/UX mindset for clean, usable systems
-▹ Based in Ethiopia — building for global impact
 
+▹ Based in Ethiopia — building for global impact
 🛠 Tech Stack
 
 AI & Automation
