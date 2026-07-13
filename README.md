@@ -5,7 +5,7 @@
 
 ### Software Engineering · Web Developer · Backend-Focused · AI Builder
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=yumna08&color=blueviolet&style=flat-square)
 
 ### 🧠 Building scalable backends & modern web apps
 
