@@ -14,9 +14,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 <div align="center">
-<img src="your-banner-image-url" width="100%">
+
+# Hi 👋, I'm Siham Yimam
+
+### Software Engineering · Web Developer · Backend-Focused · AI Builder
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square)
+
+### 🧠 Building scalable backends & modern web apps
+
+---
+
 </div>
 
 
