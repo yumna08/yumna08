@@ -13,7 +13,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
 
+# Hi 👋, I'm Siham Kassim
+
+### Software Engineering Student · Full-Stack Developer · Backend-Focused · AI Builder
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square)
+
+### 🧠 Building scalable backends & modern web apps
+
+---
+
+</div>
 ### 🧑‍💻 About Me
 
 ▹ Software Engineering student with strong interest in **Backend Engineering**, **Frontend Engineering**, **Agentic AI**
