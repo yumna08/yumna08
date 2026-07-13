@@ -13,16 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
 <div align="center">
-
-\`\`\`bash
-$ whoami
-> Siham Kassim — Software Engineer & AI Builder
-
-$ status
-> Building scalable backends & modern web apps
-\`\`\`
-
+<img src="your-banner-image-url" width="100%">
 </div>
 
 
