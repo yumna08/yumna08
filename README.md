@@ -17,15 +17,13 @@ Here are some ideas to get you started:
 
 # Hi 👋, I'm Siham Kassim
 
-### Software Engineering Student · Full-Stack Developer · Backend-Focused · AI Builder
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Full-Stack+Developer;Backend-Focused+Builder;AI+%26+Automation+Enthusiast)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square)
-
-### 🧠 Building scalable backends & modern web apps
-
----
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet)
 
 </div>
+
+
 ### 🧑‍💻 About Me
 
 ▹ Software Engineering student with strong interest in **Backend Engineering**, **Frontend Engineering**, **Agentic AI**
