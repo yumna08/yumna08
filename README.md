@@ -15,11 +15,13 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 
-# Hi 👋, I'm Siham Yimam
+\`\`\`bash
+$ whoami
+> Siham Kassim — Software Engineer & AI Builder
 
-![Student](https://img.shields.io/badge/Software%20Engineering-Student-blue?style=flat-square)
-![Full Stack](https://img.shields.io/badge/Full--Stack-Developer-orange?style=flat-square)
-![Backend](https://img.shields.io/badge/Backend-Focused-green?style=flat-square)
+$ status
+> Building scalable backends & modern web apps
+\`\`\`
 
 </div>
 
